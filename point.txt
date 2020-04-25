@@ -1,0 +1,8 @@
+•	Admin membuatkan username dan password (peserta didik, ortu, guru).
+•	Peserta didik login dengan NIS sebagai username dan password.
+•	Peserta didik di instruksikan mengganti password setelah pertama kali login.
+•	Peserta didik melaporkan kegiatan disertai bukti berupa foto kegiatan.
+•	Guru login dengan nama sebagai username dan TMT CPNS dengan namanya sebagai password (tahun pengangakatan – bulan pengangkatan - nama ). Contoh: 202002pakguru
+•	Guru merekapitulasi data yang di laporkan oleh peserta didik.
+•	Orang tua login dengan nama sebagai username dan NIS peserta didik sebagai password.
+•	Orang tua merekap data yang dilaporkan oleh peserta didik dan me-validasi bahwa kegiatan benar-benar dijalankan
